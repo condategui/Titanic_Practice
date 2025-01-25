@@ -1,12 +1,12 @@
 # Titanic Survival Prediction Project
 
-![Portada del Proyecto](Graphics/porada_titanic.png)
+<img src="Graphics/portada_titanic.png" width="400"/>
 
 ## Overview
 This project analyzes the famous Titanic dataset to predict passenger survival using machine learning techniques.
 
 ## Dataset
-- Source: Kaggle Titanic: Machine Learning from Disaster competition
+- Source: Titanic Data Set
 - Contains information about passengers including age, sex, ticket class, and survival status
 
 ## Key Features
